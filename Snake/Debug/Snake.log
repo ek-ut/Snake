@@ -1,0 +1,9 @@
+﻿  GameForm.cpp
+D:\Projects\OpenGL\Snake\Snake\GameForm.cpp(126,37): warning C4244: аргумент: преобразование "GLdouble" в "GLfloat", возможна потеря данных
+D:\Projects\OpenGL\Snake\Snake\GameForm.cpp(126,23): warning C4244: аргумент: преобразование "GLdouble" в "GLfloat", возможна потеря данных
+D:\Projects\OpenGL\Snake\Snake\GameForm.cpp(132,37): warning C4244: аргумент: преобразование "GLdouble" в "GLfloat", возможна потеря данных
+  Snake.cpp
+  food.cpp
+  Создание кода...
+D:\Projects\OpenGL\Snake\Snake\GameForm.cpp(132,23): warning C4244: аргумент: преобразование "GLdouble" в "GLfloat", возможна потеря данных
+  Snake.vcxproj -> D:\Projects\OpenGL\Snake\Debug\Snake.exe
